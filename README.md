@@ -2,6 +2,10 @@
 <h3 align="center">Bard of code bits and bytes From Ethiopia!!! 🎭</h3>
 <img align ="right" alt="coding" width="400" https://media.giphy.com/media/11jacPItBsJDLa/giphy.gif>
 
+
+
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="hailemeskel-getaneh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hailemeskel-getaneh" target="blank"><img src="https://img.shields.io/twitter/follow/hailemeskel-getaneh?logo=twitter&style=for-the-badge" alt="hailemeskel-getaneh" /></a> </p>
