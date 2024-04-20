@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at ["https://hailemeskel-getaneh.github.io/hailegetaneh".]("https://hailemeskel-getaneh.github.io/hailegetaneh".)
+- 👨‍💻 All of my projects are available at [https://hailemeskel-getaneh.github.io/hailegetaneh.]("https://hailemeskel-getaneh.github.io/hailegetaneh".)
 
 - 📫 How to reach me **hailegetaneh1221@gmail.com**
 
