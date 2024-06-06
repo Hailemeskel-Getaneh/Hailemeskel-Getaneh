@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hailemeskel Getaneh</h1>
+<h1 align="center">Hi 👋, I'm Hailemeskel Getaneh Sidelil</h1>
 <h3 align="center">Bard of code bits and bytes From Ethiopia!!! 🎭</h3>
 <img align ="right" alt="coding" width="400" https://media.giphy.com/media/11jacPItBsJDLa/giphy.gif>
 
