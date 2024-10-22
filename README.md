@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hailemeskel Getaneh</h1>
 <h3 align="center">Bard of code bits and bytes From Ethiopia!!! 🎭</h3>
-<img align ="right" alt="coding" width="400" src = "https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align ="right" alt="coding" width="400" src = "[https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)">
 
 
 
