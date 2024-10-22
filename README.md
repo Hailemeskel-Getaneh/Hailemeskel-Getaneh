@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hailemeskel Getaneh</h1>
 <h3 align="center">Bard of code bits and bytes From Ethiopia!!! 🎭</h3>
-<img align ="right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+<img align ="right" alt="coding" width="400" src = "https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 
 
