@@ -43,6 +43,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hailemeskel-getaneh&show_icons=true&locale=en&layout=compact" alt="hailemeskel-getaneh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hailemeskel-getaneh&show_icons=true&locale=en" alt="hailemeskel-getaneh" /></p>
+# 🏆 GitHub World Cup
+
+| 🥇 Gold               | 🥈 Silver             | 🥉 Bronze             |
+|-----------------------|-----------------------|-----------------------|
+| **Stars:** 500        | **Commits:** 300      | **Contributions:** 1000+ |
+
+![Trophy](https://img.shields.io/badge/🏆%20Overall%20Winner-Hailemeskel-Getaneh-blue?style=for-the-badge)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hailemeskel-getaneh&" alt="hailemeskel-getaneh" /></p>
 
