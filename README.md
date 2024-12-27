@@ -46,14 +46,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hailemeskel-Getaneh&" alt="Hailemeskel-Getaneh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hailemeskel-Getaneh&show_icons=true&locale=en&layout=compact" alt="Hailemeskel-Getaneh" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hailemeskel-Getaneh" alt="Hailemeskel-Getaneh" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hailemeskel-Getaneh" alt="Hailemeskel-Getaneh" /></a></p> -->
 # 🏆 GitHub World Cup
 
 | 🥇 Gold               | 🥈 Silver             | 🥉 Bronze             |
 |-----------------------|-----------------------|-----------------------|
 | **Stars:** 500        | **Commits:** 300      | **Contributions:** 1000+ |
 
-![Trophy](https://img.shields.io/badge/🏆%20Overall%20Winner-Hailemeskel-Getaneh-blue?style=for-the-badge)
+
 
 <h2>🚀 Current Project Image Reviews</h2>
 <h3>Quiz app with Timer</h3>
