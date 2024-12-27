@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/hailemeskel-getaneh?label=Followers&style=social" alt="GitHub Followers" />
 </p>
-
+----------------------------------------------------------------------------------------------
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hailemeskel-getaneh&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
@@ -30,7 +30,7 @@
 
 
 <h2>🚀 GitHub Stats</h2>
-
+---------------------
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailemeskel-getaneh&theme=algolia" alt="GitHub Streak Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=hailemeskel-getaneh&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
@@ -43,7 +43,7 @@
 ---
 
 ### 🚀 Languages and Tools
-
+--------------------------
 <p align="left">
     <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
@@ -56,10 +56,10 @@
     <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
----
+--------------------------------------------
 
 ### 🚀 Current Project Images
-
+--------------------------------
 <h3>Quiz App with Timer</h3>
 <p>
     <img src="https://raw.githubusercontent.com/Hailemeskel-Getaneh/Project-Images/master/quizAppDashboard.png" alt="Quiz App Dashboard" width="400" />
