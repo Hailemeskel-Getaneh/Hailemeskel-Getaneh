@@ -44,7 +44,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true&locale=en" alt="Hailemeskel-Getaneh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hailemeskel-Getaneh&" alt="Hailemeskel-Getaneh" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hailemeskel-Getaneh&show_icons=true&locale=en&layout=compact" alt="Hailemeskel-Getaneh" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hailemeskel-Getaneh" alt="Hailemeskel-Getaneh" /></a></p>
