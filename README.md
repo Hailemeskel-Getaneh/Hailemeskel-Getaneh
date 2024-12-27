@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hailemeskel Getaneh</h1>
 <h3 align="center">Bard of Code Bits and Bytes from Ethiopia</h3>
-<img align ="right" alt="coding" width="400" src = "https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align ="left" alt="coding" width="400" src = "https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="hailemeskel-getaneh" /> </p>
 
