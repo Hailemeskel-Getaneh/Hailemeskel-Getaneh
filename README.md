@@ -33,12 +33,12 @@
 
 ---------------------
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailemeskel-getaneh&theme=algolia" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=hailemeskel-getaneh&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hailemeskel-Getaneh&theme=algolia" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailemeskel-getaneh&layout=compact&theme=algolia" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ---
