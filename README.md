@@ -17,6 +17,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=hailemeskel-getaneh&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
     </a>
 </p>
+<h1>About me</h1>
 
 - 🔭 I’m currently working on **Backend Development**  
 - 🌱 I’m currently learning **Node.js**  
