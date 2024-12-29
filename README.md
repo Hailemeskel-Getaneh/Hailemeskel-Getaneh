@@ -1,8 +1,9 @@
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hailemeskel-Getaneh&data=followers,repositories,commits&theme=viridescent)](https://github.com/Hailemeskel-Getaneh)
 
 -----------------------------------------------------------
 
-<h1 align="center">Hi 👋, I'm Hailemeskel Getaneh</h1>
+
 <h3 align="center">Bard of Code Bits and Bytes from Ethiopia</h3>
 <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
@@ -28,8 +29,8 @@
 ---
 
 
+# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
 
-<h2>🚀 GitHub Stats</h2>
 ---------------------
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailemeskel-getaneh&theme=algolia" alt="GitHub Streak Stats" />
@@ -42,21 +43,21 @@
 
 ---
 
-### 🚀 Languages and Tools
---------------------------
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-    <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
-</p>
 
 --------------------------------------------
+## 🛠️ Languages and Tools
+
+| 🌐 Languages | 🎨 Frontend | 🔧 Backend | 🗄️ Databases | 🛠️ Development Tools |
+|--------------|-------------|------------|--------------|----------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) <br> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br> ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+----------------------------------------
+## Activitys 📁
+
+| Project | LeetCode Activity |
+| ------- | ------------------ |
+| [![wanderEthio](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=wanderEthio)](https://github.com/Hailemeskel-Getaneh/wanderEthio.git) <br> [![QUiz app with timer](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=QuizApp)](https://github.com/Hailemeskel-Getaneh/QuizApp.git) <br> [![Backend-for-MERN-Stack](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=Backend-for-MERN-Stack)](https://github.com/Hailemeskel-Getaneh/Backend-for-MERN-Stack.git) | 📊 Coding Activity at LeetCode <br> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hailemeskel-Getaneh/) <br> ![LeetCode Stats](https://leetcard.jacoblin.cool/Hailemeskel-Getaneh?ext=heatmap&theme=dark&width=500&height=300) |
+ 
 
 ### 🚀 Current Project Images
 --------------------------------
