@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Backend Development**  
 - 🌱 I’m currently learning **Node.js**  
 - 👯 I’m looking to collaborate on **FullStack Projects**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://hailegetaneh.netlify.app)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hailemeskel.netlify.app)  
 - 💬 Ask me about **JavaScript, Python, Node.js, React**  
 - 📫 Reach me at **hailegetaneh1221@gmail.com**  
 - ⚡ Fun fact: **I think I am funny**  
