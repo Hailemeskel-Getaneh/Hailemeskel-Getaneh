@@ -34,7 +34,7 @@
 
 ---------------------
 <p>
-<img src="https://streak-stats.demolab.com/?user=Hailemeskel-Getaneh&theme=algolia" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Hailemeskel-Getaneh&theme=algolia"count_private=true alt="GitHub Streak Stats" />
 
    <img src="https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true&theme=algolia&count_private=true&cache_seconds=900" alt="GitHub Stats" />
 
