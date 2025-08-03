@@ -19,11 +19,11 @@
 </p>
 <h1>About me</h1>
 
-- 🔭 I’m currently working on **Backend Development**  
-- 🌱 I’m currently learning **Node.js**  
+- 🔭 I’m currently working on **DevOps Engneering**  
+- 🌱 I’m currently learning **Docker**  
 - 👯 I’m looking to collaborate on **FullStack Projects**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hailemeskel.netlify.app)  
-- 💬 Ask me about **JavaScript, Python, Node.js, React**  
+- 💬 Ask me about **JavaScript, Node.js, React, React Native**  
 - 📫 Reach me at **hailegetaneh1221@gmail.com**  
 - ⚡ Fun fact: **I think I am funny**  
 
