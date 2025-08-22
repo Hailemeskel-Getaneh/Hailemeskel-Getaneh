@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/hailemeskel-getaneh?label=Followers&style=social" alt="GitHub Followers" />
 </p>
---------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hailemeskel-getaneh&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Docker**  
 - 👯 I’m looking to collaborate on **FullStack Projects**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hailemeskel.netlify.app)  
-- 💬 Ask me about **JavaScript, Node.js, React, React Native**  
+- 💬 Ask me about **JavaScript, Node.js, React, React Native, git and github, docker**  
 - 📫 Reach me at **hailegetaneh1221@gmail.com**  
 - ⚡ Fun fact: **I think I am funny**  
 
