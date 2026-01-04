@@ -29,9 +29,14 @@
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub followers](https://img.shields.io/github/followers/Hailemeskel-Getaneh?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Hailemeskel-Getaneh?style=for-the-badge)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Hailemeskel-Getaneh&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 
