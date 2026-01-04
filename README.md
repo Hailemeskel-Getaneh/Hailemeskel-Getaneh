@@ -31,7 +31,8 @@
 
 # Test
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&theme=tokyonight&v=1)
 
 ![Streak](https://streak-stats.demolab.com?user=Hailemeskel-Getaneh)
 
