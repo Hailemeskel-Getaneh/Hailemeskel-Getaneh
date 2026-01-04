@@ -29,14 +29,13 @@
 
 ---
 
-# Test
+## 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true&theme=algolia)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&theme=tokyonight&v=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hailemeskel-Getaneh&theme=algolia)
 
-![Streak](https://streak-stats.demolab.com?user=Hailemeskel-Getaneh)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&layout=compact&theme=algolia)
 
 
 
