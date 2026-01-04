@@ -30,9 +30,8 @@
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/Hailemeskel-Getaneh?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Hailemeskel-Getaneh?style=for-the-badge)
 
 
 
