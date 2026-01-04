@@ -30,12 +30,10 @@
 ---
 
 ## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hailemeskel-Getaneh&show_icons=true&theme=algolia)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hailemeskel-Getaneh&theme=algolia)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&layout=compact&theme=algolia)
 
 
 
