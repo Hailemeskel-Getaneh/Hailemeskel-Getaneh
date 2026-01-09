@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Docker**  
 - 👯 I’m looking to collaborate on **FullStack Projects**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hailemeskel.netlify.app)  
-- 💬 Ask me about **JavaScript, Node.js, React, React Native, git and github, docker, linux**  
+- 💬 Ask me about **JavaScript, Node.js, React, React Native, git and github, docker, linux, CI/CD**  
 - 📫 Reach me at **hailegetaneh1221@gmail.com**  
 - ⚡ Fun fact: **I think I am funny**  
 
