@@ -4,7 +4,9 @@
 -----------------------------------------------------------
 
 
-<h3 align="center">Bard of Code Bits and Bytes from Ethiopia</h3>
+
+
+<h3 align="center">Bard of Code Bits and Bytes from Ethiopia </h3>
 <img align="left" alt="Coding tpying animation " width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> 
