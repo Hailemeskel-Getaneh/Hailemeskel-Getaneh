@@ -1,13 +1,13 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hailemeskel-Getaneh&data=followers,repositories,commits&theme=viridescent)](https://github.com/Hailemeskel-Getaneh)
 
--------------------------------------------------------
+------------------------------------------------
 
 
 
 
 <h3 align="center">Bard of Code Bits and Bytes from Ethiopia </h3>
-<img align="left" alt="Coding tpying animation " width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="left" alt="Coding tpying animation " width="410" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
