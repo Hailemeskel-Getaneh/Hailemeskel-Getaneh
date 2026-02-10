@@ -49,7 +49,7 @@
 
 | Project | LeetCode Activity |
 | ------- | ------------------ |
-| [![wanderEthio](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=wanderEthio)](https://github.com/Hailemeskel-Getaneh/wanderEthio) <br> [![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=QuizApp)](https://github.com/Hailemeskel-Getaneh/QuizApp) <br> [![Backend-for-MERN-Stack](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=Backend-for-MERN-Stack)](https://github.com/Hailemeskel-Getaneh/Backend-for-MERN-Stack) | [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hailemeskl-Getaneh/) <br><br> ![LeetCode Stats](https://leetcard.jacoblin.cool/Hailemeskl-Getaneh?theme=dark&ext=heatmap&v=2) |
+| [![wanderEthio](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=wanderEthio)](https://github.com/Hailemeskel-Getaneh/wanderEthio) <br> [![Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=QuizApp)](https://github.com/Hailemeskel-Getaneh/QuizApp) <br> [![Backend-for-MERN-Stack](https://github-readme-stats.vercel.app/api/pin/?username=Hailemeskel-Getaneh&theme=react&repo=Backend-for-MERN-Stack)](https://github.com/Hailemeskel-Getaneh/Backend-for-MERN-Stack) | [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hailemeskel-Getaneh/) <br><br> ![LeetCode Stats](https://leetcard.jacoblin.cool/Hailemeskel-Getaneh?theme=dark&ext=heatmap&v=2) |
 
  
 
