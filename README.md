@@ -36,7 +36,7 @@
 ![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=Hailemeskel-Getaneh&theme=glow)
 ![GitHub Streak](https://gitglow-three.vercel.app/api/streak?username=Hailemeskel-Getaneh&theme=solarized)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemeskel-Getaneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://gitglow-three.vercel.app/api/languages?username=Hailemeskel-Getaneh&theme=radical)
 
 
 
