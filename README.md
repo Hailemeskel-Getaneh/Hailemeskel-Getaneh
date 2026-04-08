@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">Bard of Code Bits and Bytes from Ethiopia </h3>
+<h3 align="center">Backend Engineer | .NET Developer | Mobile App Developer</h3>
 <img align="left" alt="Coding tpying animation " width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> 
@@ -24,7 +24,6 @@
 
 ![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=Hailemeskel-Getaneh&theme=glow)
 ![GitHub Streak](https://gitglow-three.vercel.app/api/streak?username=Hailemeskel-Getaneh&theme=solarized)
-
 ![Top Languages](https://gitglow-three.vercel.app/api/languages?username=Hailemeskel-Getaneh&theme=radical)
 
 
