@@ -4,18 +4,14 @@
     <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
 ----------------------------------------------------
 
 
 
 <h3 align="center">Backend Engineer | .NET Developer | Mobile App Developer</h3>
-<br>
-<br> </br>
-<img align="left" alt="Coding tpying animation " width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 
-<br> </br>
+<!-- <img align="left" alt="Coding tpying animation " width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"> -->
 
 <br> </br>
 
