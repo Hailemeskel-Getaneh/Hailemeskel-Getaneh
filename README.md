@@ -1,8 +1,11 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hailemeskel-Getaneh&data=followers,repositories,commits&theme=viridescent)](https://github.com/Hailemeskel-Getaneh)
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-----------------------
 
+----------------------------------------------------
 
 
 
@@ -11,16 +14,10 @@
 <br> </br>
 <img align="left" alt="Coding tpying animation " width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=hailemeskel-getaneh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/hailemeskel-getaneh?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-----------------------------------------------------
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hailemeskel-getaneh&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
-    </a>
-</p>
+
+<br> </br>
+
+<br> </br>
 
 # 📊 GitHub Stats
 
