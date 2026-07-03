@@ -45,8 +45,8 @@
 ### 🌐 Connect with Me
 
 <p>
-    <a href="https://twitter.com/hamar1627"><img src="https://img.shields.io/twitter/follow/hamar1627?style=social" alt="Twitter"></a>
-    <a href="https://medium.com/@Hailemeskel-Getaneh"><img src="https://img.shields.io/badge/Medium-%40hamatr1627-03a87c" alt="Medium"></a>
+    <a href="https://twitter.com/haile17"><img src="https://img.shields.io/twitter/follow/haile17?style=social" alt="Twitter"></a>
+    <a href="https://medium.com/@Hailemeskel-Getaneh"><img src="https://img.shields.io/badge/Medium-%40haile17-03a87c" alt="Medium"></a>
     <a href="https://linkedin.com/in/hailemeskel-getaneh"><img src="https://img.shields.io/badge/LinkedIn-Hailemeskel%20Getaneh-blue" alt="LinkedIn"></a>
 </p>
 
